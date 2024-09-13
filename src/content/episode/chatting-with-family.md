@@ -8,6 +8,6 @@ cover: /james-and-rose-merry-1-.png
 explicit: false
 episodeType: full
 ---
-James and Rose Merry Brock from Georgia
+James and Rose Merry Brock from Atlanta, Georgia.
 
-Featuring Violist, Sage
+Featuring Violist, Sage.
