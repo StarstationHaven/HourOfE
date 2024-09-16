@@ -4,7 +4,7 @@ audioUrl: https://stream.redcircle.com/episodes/ac38bcd1-0312-43bc-8fa7-592aca9a
 pubDate: 24 Jul 2024
 duration: 00:39:32
 size: 5
-cover: /pink-yellow-star-y2k-style-streetwear-logo-1-.png
+cover: /kevinp.png
 explicit: false
 episodeType: full
 ---
