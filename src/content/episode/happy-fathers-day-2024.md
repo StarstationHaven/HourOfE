@@ -4,7 +4,7 @@ audioUrl: https://stream.redcircle.com/episodes/a4dce1c4-e5dd-4e5c-87ae-1d7899a3
 pubDate: 15 Jun 2024
 duration: 01:00:01
 size: 5
-cover: /pink-yellow-star-y2k-style-streetwear-logo.png
+cover: /fathersday.png
 explicit: false
 episodeType: full
 ---
