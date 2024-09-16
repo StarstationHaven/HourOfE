@@ -1,5 +1,5 @@
 ---
-title: "Lake City Manager: Don Rosenthal Inbox"
+title: "Lake City Manager: Don Rosenthal"
 audioUrl: https://stream.redcircle.com/episodes/9a16b1f2-eebc-4167-9def-6a3eeee9addc/stream.mp3
 pubDate: 16 Sep 2024
 duration: 00:18:43
