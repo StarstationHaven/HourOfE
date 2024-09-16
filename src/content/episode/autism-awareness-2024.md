@@ -4,7 +4,7 @@ audioUrl: https://stream.redcircle.com/episodes/97dc9c7e-0bc2-4182-be9c-5fa1dc00
 pubDate: 14 Apr 2024
 duration: 00:59:02
 size: 5
-cover: /pink-yellow-star-y2k-style-streetwear-logo.png
+cover: /autismawareness.png
 explicit: false
 episodeType: full
 ---
