@@ -8,6 +8,6 @@ cover: /butler.png
 explicit: false
 episodeType: full
 ---
-Presley EXCEL and Scholars Program, Inc., Presley Learning Center, Inc., Miracle Tabernacle Girls of Distinction, and Excel Boys Group present  It's About Our Children motivational series. 
+Presley EXCEL and Scholars Program, Inc., Presley Learning Center, Inc., Miracle Tabernacle Girls of Distinction, and Excel Boys Group present It's About Our Children motivational series. 
 
 Today's speaker is **Chief Gerald Butler, Chief of Police** in Lake City, Florida.
