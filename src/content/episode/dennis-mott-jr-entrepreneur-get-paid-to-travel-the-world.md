@@ -8,4 +8,4 @@ cover: /dennis.png
 explicit: false
 episodeType: full
 ---
-### "Get Paid To Travel The World" - Surge365
+Get paid to travel the world - Surge 365
