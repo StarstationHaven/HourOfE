@@ -8,4 +8,4 @@ cover: /ron-williams.png
 explicit: false
 episodeType: full
 ---
-Ronald Williams the County Commissioner of Lake City, Florida.
+Ronald Williams: County Commissioner of Lake City, Florida.
