@@ -8,7 +8,7 @@ cover: /reindeerchristmas.png
 explicit: false
 episodeType: full
 ---
-**"Holiday Spotlight: A Christmas Chat with Rudolph the Red-Nosed Reindeer"**
+**Holiday Spotlight: A Christmas Chat with Rudolph the Red-Nosed Reindeer**
 
 In this special holiday episode, we bring the magic of Christmas to life with a special guest—**Rudolph the Red-Nosed Reindeer**! ![](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f98c/72.png)
 
