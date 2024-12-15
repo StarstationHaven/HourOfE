@@ -1,7 +1,7 @@
 ---
 title: "Christmas Radio Show "
 audioUrl: https://redcircle.com/shows/9b413dc9-527f-4aa2-840f-86d5a4ae1391/episodes/5c886168-d1f5-40ab-92d7-8d56390d91a7
-pubDate: 15 Dec 2024
+pubDate: 07 Dec 2024
 duration: 01:00:02
 size: 5
 cover: /reindeerchristmas.png
