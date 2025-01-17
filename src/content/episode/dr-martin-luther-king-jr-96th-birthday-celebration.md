@@ -9,3 +9,5 @@ explicit: false
 episodeType: full
 ---
 Sermon: Minister Alan L. Nelson
+
+Prayer: Pastor Ava Curry
