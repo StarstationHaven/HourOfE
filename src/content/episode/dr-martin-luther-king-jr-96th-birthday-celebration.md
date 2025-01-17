@@ -8,6 +8,4 @@ cover: /mlk-2025.png
 explicit: false
 episodeType: full
 ---
-Sermon: Minister Alan L. Nelson
-
-Prayer: Pastor Ava Curry
+Sermon: Minister Alan L. Nelson | Prayer: Pastor Ava Curry
