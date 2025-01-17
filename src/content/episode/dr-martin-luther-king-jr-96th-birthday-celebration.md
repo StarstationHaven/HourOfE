@@ -4,6 +4,7 @@ audioUrl: https://stream.redcircle.com/episodes/ea466a97-8a9b-4641-babd-a9dfc141
 pubDate: 17 Jan 2025
 duration: 00:34:29
 size: 5
+cover: /mlk-2025.png
 explicit: false
 episodeType: full
 ---
