@@ -10,7 +10,7 @@ episodeType: full
 ---
 Episode Title: Celebrating Dr. Martin Luther King Jr. (Part 2)
 
-Original Air Date: January 11, 2025
+Original Air Date: January 18, 2025
 
 107.9 FM WUAF Lake City, FL
 
