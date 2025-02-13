@@ -2,7 +2,7 @@
 title: 'When We Pray God Answers: Alonzo "AJ" Brinson'
 audioUrl: https://stream.redcircle.com/episodes/ac354c70-8b70-41e3-8fe8-d0f5fff83f8a/stream.mp3
 pubDate: 12 Feb 2025
-duration: 01:00:44
+duration: 1:00:44
 size: 5
 cover: /alonsob.png
 explicit: false
