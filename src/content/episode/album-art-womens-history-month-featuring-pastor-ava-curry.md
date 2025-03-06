@@ -1,5 +1,5 @@
 ---
-title: "album-art Women's History Month featuring Pastor Ava Curry "
+title: "Women's History Month featuring Pastor Ava Curry "
 audioUrl: https://stream.redcircle.com/episodes/f0fbab47-b739-4c9a-b5fd-6313787200f7/stream.mp3
 pubDate: 06 Mar 2025
 duration: 00:57:44
