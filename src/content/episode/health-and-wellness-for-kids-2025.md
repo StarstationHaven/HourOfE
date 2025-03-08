@@ -10,6 +10,6 @@ episodeType: full
 ---
 In the "Health and Wellness for Kids" episode of the Hour of Excellence podcast, listeners are provided practical tips to promote children's well-being. The episode covers easy-to-follow exercise routines, tasty snack ideas, stress-relief techniques, and positive mindset practices, all tailored for kids. 
 
-This episode is part of the "STEM at Home" series, which aims to integrate science, technology, engineering, and mathematics into daily family activities. The series encourages families to explore educational and enjoyable practices at home by combining health and wellness topics with STEM concepts. 
+This episode is part of the "STEM in the Home" series, which aims to integrate science, technology, engineering, and mathematics into daily family activities. The series encourages families to explore educational and enjoyable practices at home by combining health and wellness topics with STEM concepts. 
 
 Originally aired March 8, 2025, on 107.9 FM WUAF Lake City, FL
