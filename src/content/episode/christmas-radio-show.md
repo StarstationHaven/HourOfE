@@ -1,5 +1,5 @@
 ---
-title: "Christmas Radio Show "
+title: Christmas Radio Show | Kids
 audioUrl: https://stream.redcircle.com/episodes/5c886168-d1f5-40ab-92d7-8d56390d91a7/stream.mp3
 pubDate: 07 Dec 2024
 duration: 01:00:02
