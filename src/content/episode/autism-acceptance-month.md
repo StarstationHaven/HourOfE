@@ -1,5 +1,5 @@
 ---
-title: Autism Acceptance Month | Kids
+title: Autism Acceptance Month 2023 | Kids
 audioUrl: https://stream.redcircle.com/episodes/f0ddf631-1f39-4a12-81f4-8b8721383d97/stream.mp3
 pubDate: 17 Apr 2023
 duration: 00:47:33
