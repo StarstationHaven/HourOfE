@@ -8,4 +8,6 @@ cover: /pink-yellow-star-y2k-style-streetwear-logo-6-.png
 explicit: false
 episodeType: full
 ---
-Aaron Randolph as he discusses his advice for the youth.
+Join Mr. Aaron Randolph as he discusses Rev. Dr. Martin Luther King, Jr. In this episode he shares important advice for young people. \
+\
+Originally aired on 107.9FM WUAF Lake City, FL in 2023
