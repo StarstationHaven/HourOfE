@@ -10,4 +10,6 @@ episodeType: full
 ---
 Mr. Jerry Daniels is a Master Barber in Buffalo, New York. He has won many awards. Mr. Daniels has a barber ministry, providing haircuts in the hospitals and local schools. \
 \
-He is the son of Rev Frank Daniels and Mrs. Marietta Daniels from Cordele, Georgia.
+He is the son of Rev Frank Daniels and Mrs. Marietta Daniels from Cordele, Georgia.\
+\
+Originally aired on 107.9 FM WUAF FM, Lake City, Florida in 2024
