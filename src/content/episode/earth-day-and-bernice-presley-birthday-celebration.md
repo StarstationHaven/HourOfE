@@ -1,5 +1,5 @@
 ---
-title: Earth Day and Bernice Presley Birthday Celebration | Kids
+title: Earth Day | Bernice Presley Birthday Celebration | Kids
 audioUrl: https://stream.redcircle.com/episodes/04982476-4adf-4bfb-b77f-590580862636/stream.mp3
 pubDate: 22 Apr 2023
 duration: 00:54:31
