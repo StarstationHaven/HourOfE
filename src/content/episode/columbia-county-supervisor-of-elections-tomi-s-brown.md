@@ -1,5 +1,5 @@
 ---
-title: "Columbia County Supervisor of Elections: Tomi S. Brown"
+title: Columbia County Supervisor of Elections | Tomi S. Brown
 audioUrl: https://stream.redcircle.com/episodes/3fa54ecc-de99-4d59-a7e3-a8fb1a4d824e/stream.mp3
 pubDate: 31 Jan 2024
 duration: 00:43:22
@@ -20,4 +20,6 @@ https://www.votecolumbia.com/
 
 17579 SW SR 47, Ft. White, FL 32038
 
-**PHONE:** (386) 497-1293 | **HOURS:** Tues, 8:30 am - 4:30 pm
+**PHONE:** (386) 497-1293 | **HOURS:** Tues, 8:30 am - 4:30 pm\
+\
+Originally aired on 107.9FM WUAF Lake City, FL 2024
