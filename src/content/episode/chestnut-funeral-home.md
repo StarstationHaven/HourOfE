@@ -1,5 +1,5 @@
 ---
-title: Chestnut Funeral Home
+title: "Chestnut Funeral Home | Gainesville, FL "
 audioUrl: https://stream.redcircle.com/episodes/a48f171e-5573-4d2d-a6f1-f095bd5c568d/stream.mp3
 pubDate: 04 Feb 2024
 duration: 01:00:48
@@ -16,4 +16,6 @@ Chestnut Funeral Home
 
 [chestnutfh.com](http://chestnutfh.com/) 
 
-For one hundred years or more, Chestnut Funeral Home, Inc., has been serving the Gainesville, Alachua County, and North Central Florida areas. They stand on the principal of Charles S. Chestnut, Sr.; who believed in the “Code of Good Funeral Practice”.
+For one hundred years or more, Chestnut Funeral Home, Inc., has served the Gainesville, Alachua County, and North Central Florida areas. They stand on the principle of Charles S. Chestnut, Sr., who believed in the “Code of Good Funeral Practice”.\
+\
+Originally aired on 107.9 FM WUAF FM, Lake City, Florida in 2024
