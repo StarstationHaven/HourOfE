@@ -1,5 +1,5 @@
 ---
-title: Celebrating Celebrating Black Heritage (Part 1)
+title: Celebrating Black Heritage (Part 1)
 audioUrl: https://stream.redcircle.com/episodes/2ab50a55-4c1c-42b1-806e-0fb00b6bcf3b/stream.mp3
 pubDate: 08 Feb 2025
 duration: 00:59:28
