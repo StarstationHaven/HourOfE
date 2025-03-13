@@ -8,4 +8,6 @@ cover: /dennis.png
 explicit: false
 episodeType: full
 ---
-Surge365 is a multi-level marketing (MLM) company that sells travel services, including discounts on flights, cruises, hotels, and rentals. The company is based in Wood River, Illinois.
+Surge365 is a multi-level marketing (MLM) company that sells travel services, including discounts on flights, cruises, hotels, and rentals. The company is based in Wood River, Illinois.\
+\
+Originally aired on 107.9 FM WUAF FM, Lake City, Florida in 2024
