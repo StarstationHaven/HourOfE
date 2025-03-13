@@ -8,4 +8,6 @@ cover: /pink-yellow-star-y2k-style-streetwear-logo-20-.png
 explicit: false
 episodeType: full
 ---
-A tribute to Mrs. Marietta Dowdell Daniels.
+A tribute to Mrs. Marietta Dowdell Daniels. Mrs. Daniels is the mother of Mrs. Bernice Daniels Presley. She was born in Cordele, Georgia. \
+\
+Originally aired on 107.9 FM WUAF FM, Lake City, Florida in 2023
