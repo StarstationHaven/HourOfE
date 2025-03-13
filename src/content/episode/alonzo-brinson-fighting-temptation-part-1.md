@@ -1,5 +1,5 @@
 ---
-title: Alonzo Brinson "Fighting Temptation" Part 1
+title: '"Fighting Temptation" Part 1  by Minister Alonzo "AJ" Brinson'
 audioUrl: https://stream.redcircle.com/episodes/8b0ca2cb-d2a4-443f-bcbb-a9f70b68f23a/stream.mp3
 pubDate: 19 Jul 2023
 duration: 00:32:07
@@ -10,4 +10,6 @@ episodeType: full
 ---
 A two-part series on how to handle temptation by staying connected with Jesus.
 
-Music - "Never Lost" by CeCe Winans
+Music: "Never Lost" by CeCe Winans\
+\
+Originally aired on 107.9 FM WUAF FM, Lake City, Florida in 2023
