@@ -1,5 +1,5 @@
 ---
-title: Hurricanes | Kids
+title: Hurricanes and Birthday Tribute to Sharyn Presley  | Kids
 audioUrl: https://stream.redcircle.com/episodes/69a87c86-e465-4fe8-a0eb-cb29c95a2448/stream.mp3
 pubDate: 11 Jun 2023
 duration: 00:59:31
