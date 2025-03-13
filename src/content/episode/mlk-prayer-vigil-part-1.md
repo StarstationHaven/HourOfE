@@ -1,5 +1,5 @@
 ---
-title: MLK Prayer Vigil Part 1
+title: MLK Prayer Vigil 2024 ( Part 1)
 audioUrl: https://stream.redcircle.com/episodes/d5a00d11-27f0-4882-aa41-b37e91fca6a4/stream.mp3
 pubDate: 02 Jan 2024
 duration: 00:45:5
