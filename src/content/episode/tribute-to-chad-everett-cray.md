@@ -8,4 +8,6 @@ cover: /pink-yellow-star-y2k-style-streetwear-logo-7-.png
 explicit: false
 episodeType: full
 ---
-This episode is a tribute to Chad Everett Cray. Rest in peace.
+This episode is a tribute to Chad Everett Cray from Lake City, Florida.  Rest in peace.\
+\
+Originally aired on 107.9 FM WUAF FM, Lake City, Florida in 2023
