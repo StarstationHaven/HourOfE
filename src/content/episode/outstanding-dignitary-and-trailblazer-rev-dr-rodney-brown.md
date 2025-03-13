@@ -1,5 +1,5 @@
 ---
-title: "Outstanding Dignitary and Trailblazer: Rev. Dr. Rodney Brown "
+title: "Outstanding Dignitary and Trailblazer | Rodney Brown "
 audioUrl: https://stream.redcircle.com/episodes/0f2c1f77-7cb2-43ad-b12f-cf2b419540b5/stream.mp3
 pubDate: 26 Feb 2023
 duration: 00:56:45
