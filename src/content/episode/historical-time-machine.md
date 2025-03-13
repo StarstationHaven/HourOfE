@@ -1,5 +1,5 @@
 ---
-title: Historical Time Machine
+title: Historical Time Traveling Project | Kids
 audioUrl: https://stream.redcircle.com/episodes/583a8adf-a0aa-4d97-9c77-b75ad2e54094/stream.mp3
 pubDate: 06 Aug 2023
 duration: 00:32:03
@@ -10,4 +10,6 @@ episodeType: full
 ---
 Black History | Historical Time Traveling Project.
 
-Travel through time with outstanding dignitaries Frederic Douglas, Rakeem Amerson, Travis George and Aersino Perry.
+Travel through time with outstanding dignitaries Frederic Douglas, Rakeem Amerson, Travis George and Aersino Perry.\
+\
+Originally aired on 107.9 FM WUAF FM, Lake City, Florida in 2023
