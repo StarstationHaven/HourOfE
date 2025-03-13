@@ -1,5 +1,5 @@
 ---
-title: Dr. Martin Luther King by Aaron Randolph
+title: Dr. Martin Luther King, Jr by Aaron Randolph
 audioUrl: https://stream.redcircle.com/episodes/3685b85f-cff3-41be-9e7e-a4ab705cced2/stream.mp3
 pubDate: 18 Jan 2023
 duration: 00:57:51
