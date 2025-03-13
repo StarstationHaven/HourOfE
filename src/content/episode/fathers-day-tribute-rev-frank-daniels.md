@@ -8,6 +8,6 @@ cover: /pink-yellow-star-y2k-style-streetwear-logo-23-.png
 explicit: false
 episodeType: full
 ---
-A Father's Day tribute for Reverend Frank Daniels.\
+A Father's Day tribute for Reverend Frank Daniels. Rev Daniels is the father of Mrs. Bernice Daniels Presley. He was born in Cordele, Georgia. \
 \
 Originally aired on 107.9FM WUAF Lake City, FL 2023
