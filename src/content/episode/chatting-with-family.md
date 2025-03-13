@@ -8,6 +8,8 @@ cover: /family.png
 explicit: false
 episodeType: full
 ---
-James and Rose Merry Brock from Atlanta, Georgia.
+Mr. James and Mrs. Rose Merry Brock from Atlanta, Georgia.
 
-Featuring Violist, Sage.
+Featuring Violist, Sage. Sage is from Tampa, Florida and is the grandson of Mr. and Mrs. Glynnell Presley.\
+\
+Originally aired on 107.9 FM WUAF FM, Lake City, Florida in 2024
