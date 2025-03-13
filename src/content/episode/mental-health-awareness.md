@@ -1,5 +1,5 @@
 ---
-title: Mental Health Awareness
+title: Mental Health Awareness 2023 | Kids
 audioUrl: https://stream.redcircle.com/episodes/0f2378de-be25-4ebb-848c-c2642c8d15a5/stream.mp3
 pubDate: 30 Apr 2023
 duration: 01:04:09
@@ -14,4 +14,6 @@ We will discuss some common mental health challenges that children and young peo
 
 We will also talk about some ways to cope with these challenges and how to seek help if needed.
 
-It is important to remember that seeking help for mental health challenges is not a sign of weakness, and it is nothing to be ashamed of. There are many people who can help, such as parents, teachers, school counselors, and mental health professionals.
+It is important to remember that seeking help for mental health challenges is not a sign of weakness, and it is nothing to be ashamed of. There are many people who can help, such as parents, teachers, school counselors, and mental health professionals.\
+\
+Originally aired on 107.9 FM WUAF FM, Lake City, Florida in 2023
