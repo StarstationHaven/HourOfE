@@ -8,6 +8,6 @@ cover: /pink-yellow-star-y2k-style-streetwear-logo-44-.png
 explicit: false
 episodeType: full
 ---
-The introduction to Martin Luther King Jr. 95th Birthday Celebration\
+The introduction to Rev. Dr. Martin Luther King Jr. 95th Birthday Celebration\
 \
 Originally aired on 107.9 FM WUAF FM, Lake City, Florida in 2024
