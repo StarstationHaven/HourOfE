@@ -8,6 +8,6 @@ cover: /kc.png
 explicit: false
 episodeType: full
 ---
-Kennyhia 'KC' Patterson is a 4th-year college student from Mississippi Valley State University in Mississippi. She is a basketball player and small business owner. \
+Kennyhia Patterson is a 4th-year college student from Mississippi Valley State University in Mississippi. She is a basketball player and small business owner. \
 \
 Episode music: *Young Gifted and Black* by Etana
