@@ -4,7 +4,7 @@ audioUrl: https://stream.redcircle.com/episodes/ffaa5737-fb19-4bf2-9d3e-94fb39bc
 pubDate: 26 Mar 2025
 duration: 01:00:01
 size: 5
-cover: /hugley.png
+cover: /linhugh.png
 explicit: false
 episodeType: full
 ---
