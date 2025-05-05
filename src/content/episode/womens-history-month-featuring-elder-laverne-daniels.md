@@ -11,7 +11,3 @@ episodeType: full
 Elder Daniels serves at Living Word Outreach Ministries in Lake City, Florida, under the leadership of her husband, Pastor Sammy Daniels. She holds an Associate of Arts degree in Theology from Life Christian University in Tampa, Florida. In addition to her ministry work, she is a mentor and serves as the Secretary of the Youth Women of Excellence Organization. 
 
 Originally aired on 107.9 FM WUAF Lake City, Florida March 12, 2025
-
-
-
-Test
