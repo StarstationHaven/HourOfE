@@ -8,7 +8,7 @@ cover: /linhugh.png
 explicit: false
 episodeType: full
 ---
-Linda Hugley is President and Founder of Women of Veteran Affairs (W.O.V.A.)
+Linda Hugley is President and Founder of Women of Veteran Affairs (W.O.V.A.) Test
 
 Website: [https://wovainc.org](https://wovainc.org/). The Women of Veterans Affairs is dedicated to honoring the dignity and quality of life of all veterans and their families by eliminating barriers to opportunities. Every Veteran and their family will have the opportunity to receive education, available resources, and counseling to enhance their lives. 
 
