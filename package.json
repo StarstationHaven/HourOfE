@@ -10,7 +10,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "preinstall": "npm install --ignore-scripts=false --foreground-scripts --verbose sharp"
   },
   "dependencies": {
     "@astrojs/image": "^0.17.2",
