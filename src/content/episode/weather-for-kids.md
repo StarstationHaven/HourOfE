@@ -2,7 +2,7 @@
 title: Weather for Kids
 audioUrl: https://stream.redcircle.com/episodes/b8cb22f7-7b5e-49d5-ad1c-0b1985312850/stream.mp3
 pubDate: 15 Jun 2025
-duration: 01:00:01
+duration: 01:01:01
 size: 5
 cover: /weatherkids.png
 explicit: false
