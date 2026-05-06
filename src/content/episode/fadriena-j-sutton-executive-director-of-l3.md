@@ -8,7 +8,7 @@ cover: /fadriena-jean-sutton.png
 explicit: false
 episodeType: full
 ---
-Fadriena Jean Sutton is a bold and strategic leader from Lake City, Florida and a graduate of Florida Agricultural & Mechanical University’s School of Business & Industry. With over a decade of management experience across corporate, government, and nonprofit sectors, she specializes in financial strategy, compliance, and organizational growth.
+Fadriena Jean Sutton is a bold and strategic leader from Lake City, Florida and a graduate of [Florida Agricultural & Mechanical University’s School of Business & Industry in Tallahassee, Florida.](https://sbi.famu.edu/) With over a decade of management experience across corporate, government, and nonprofit sectors, she specializes in financial strategy, compliance, and organizational growth.
 
 A passionate mentor for more than 15 years, Fadriena has dedicated her work to empowering women and girls. She serves as an ambassador for the Mary Kay Foundation and has been actively involved in leadership and advocacy initiatives. As Executive Director of [Ladies Learning to Lead, L3  ](https://www.l3ladies.org/)since 2022, she has led a successful statewide expansion, managing a budget of over $1 million and building programs that impact communities across Florida.
 
