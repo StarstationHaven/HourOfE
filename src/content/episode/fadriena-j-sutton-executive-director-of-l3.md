@@ -8,24 +8,22 @@ cover: /fadriena-jean-sutton.png
 explicit: false
 episodeType: full
 ---
-We are joined by an inspiring leader who’s making a powerful impact across Florida and beyond. Fadriena, a native of Lake City, FL and graduate of Florida Agricultural and Mechanical University’s School of Business and Industry, is a bold, strategic, and compassionate voice in leadership and community empowerment.
+Fadriena is bold, caring, strategic, and creative. She hails from Lake City, Florida and is a graduate of the Florida Agricultural & Mechanical University’s School of Business & Industry. A professional with over 10 years of management experience overseeing the day-to-day operations of corporate, governmental, and non-profit organizations, she fulfills strategic goals and direction, including fundraising, professional development, and life-skills training, with extensive experience in financial analysis and regulatory compliance.
 
-With over a decade of experience across corporate, government, and nonprofit sectors, she has led initiatives in fundraising, professional development, and life-skills training—while bringing deep expertise in financial analysis and compliance.
+For more than 15 years, Fadriena has been a mentor and coach to women and girls. She is a compassionate leader and a business strategist. Her community networking, advocacy, and fundraising led her to Mary Kay as an official Mary Kay Foundation Ambassador, as well as an avid volunteer for girls' organizations like Ladies Learning to Lead.
 
-For more than fifteen years, she has mentored and coached women and girls, and her dedication to advocacy and community impact has earned her recognition as an ambassador for the Mary Kay Foundation.
+In 2022, Fadriena became the Executive Director of L3. She has led the organization in its statewide expansion with staff teams in Tallahassee, Jacksonville, Orlando, Tampa, Ft. Lauderdale, and Miami, managing a budget over $1M. She is excited for the next chapter of L3 and leading this awesome organization to more statewide and national programs.
 
-As Executive Director of **[Ladies Learning to Lead L3](https://www.l3ladies.org/),** Fadriena has expanded the organization statewide, leading teams across Tallahassee, Jacksonville, Orlando, Tampa, Fort Lauderdale, and Miami, while managing a budget of over one million dollars.
+Fadriena enjoys board games, traveling, and girl-time fun! In her spare time, she is a dance enthusiast, spa and beauty guru, and auntie to 8 and counting!
 
-Get ready for a powerful conversation on leadership, purpose, and impact—let’s welcome Fadriena.\
-\
-**CONTACT INFORMATION:**
+**CONTACT INFORMATION**
 
-Cell: (386) 697 9103 | Email: fadriena@L3Ladies.org
+Cell: (386) 697-9103 | Email: fadriena@L3Ladies.org
 
-**SOCIAL MEDIA:** 
+**SOCIALS**
 
-*Instagram* - [@FJSUTTON](https://www.instagram.com/fjsutton/)
+Instagram: @FJSUTTON
 
-*Facebook* - [@FJSMK](https://www.facebook.com/fjsuttonmkgirl)
+Facebook: @FJSMK
 
-*LinkedIn* - [@FADRIENA-SUTT](https://www.linkedin.com/in/fadriena-sutton/)
+LinkedIn: @FADRIENA-SUTT
