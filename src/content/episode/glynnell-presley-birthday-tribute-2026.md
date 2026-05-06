@@ -8,4 +8,6 @@ cover: /granddad.png
 explicit: false
 episodeType: full
 ---
-A tribute to Glynnell Presley for his Birthday in April 2026.
+A tribute to Glynnell Presley for his Birthday in April 6, 2026.\
+\
+Coach Glynnell Presley is a dedicated leader and mentor from Lake City, Florida known for his commitment to developing youth both on and off the field. With years of coaching experience, he has built a reputation for, leadership, and empowering young people to reach their full potential.
