@@ -22,8 +22,8 @@ Cell: (386) 697-9103 | Email: fadriena@L3Ladies.org
 
 **SOCIALS**
 
-Instagram: @FJSUTTON
+[Instagram: @FJSUTTON](https://www.instagram.com/fjsutton/)
 
-Facebook: @FJSMK
+[Facebook: @FJSMK](https://www.facebook.com/fadriena.sutton/)
 
-LinkedIn: @FADRIENA-SUTT
+[LinkedIn: @FADRIENA-SUTT](https://www.linkedin.com/in/fadriena-sutton)
