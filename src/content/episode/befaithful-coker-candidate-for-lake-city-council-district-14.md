@@ -19,7 +19,7 @@ During this special episode, listeners will learn about:
 * Her priorities for improving quality of life in Lake City.
 * The importance of civic engagement and working together to build a brighter future for all residents.
 
-Mrs. Beafaithful Coker Contact information: 
+Mrs. Befaithful Coker's Contact information: 
 
 Email: [befaithfulcoker@gmail.com](mailto:befaithfulcoker@gmail.com)
 
