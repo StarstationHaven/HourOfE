@@ -4,7 +4,7 @@ audioUrl: https://stream.redcircle.com/episodes/cc2b6113-3c95-49e0-9d2e-c52567af
 pubDate: 14 Aug 2026
 duration: 00:36:23
 size: 52.4
-cover: /donalparnell.png
+cover: /deaconparnell.png
 explicit: false
 episodeType: full
 ---
