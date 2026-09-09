@@ -4,7 +4,7 @@ audioUrl: https://stream.redcircle.com/episodes/282d9f6c-cb78-4f4a-8bbc-5226f802
 pubDate: 08 Sep 2026
 duration: 00:45:33
 size: 66.1
-cover: /brinsonpodcast.png
+cover: /brinsonpicture1.png
 explicit: false
 episodeType: full
 ---
